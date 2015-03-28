@@ -1,0 +1,7 @@
+.tabs li, .tab {
+	display: inline-block;
+}
+
+.active {
+	font-weight: bold;
+}

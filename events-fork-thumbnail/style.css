@@ -1,0 +1,19 @@
+.tabs li {
+	display: inline-block;
+}
+
+.tab {
+	display: none;
+	width: 400px;
+	height: 400px;
+}
+
+.shown {
+	display: inline-block;
+	width: 400px;
+	height: 400px;
+}
+
+.active {
+	font-weight: bold;
+}
